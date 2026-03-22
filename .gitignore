@@ -1,0 +1,15 @@
+*.xcodeproj
+xcuserdata/
+DerivedData/
+.build/
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+Secrets.xcconfig
